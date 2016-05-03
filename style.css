@@ -1,0 +1,315 @@
+#blueRect{
+    height: 200px;
+    width: 400px;			
+    background: lightblue;	
+  position:absolute;
+  left:0px;
+  top:0px;
+   
+}
+#greySq{
+    background: grey;
+    position: absolute;
+    left: 50px;
+    top: 75px;
+}
+#greyRect{
+    background: grey;
+    position: absolute;
+    left: 150px;
+    top: 75px;
+}
+#greySq2{
+    background: grey;
+    position: absolute;
+    left: 300px;
+    top: 75px;
+}
+
+#yellowSq200{
+    background: yellow;
+  position: absolute;
+  left:400px;
+  top: 0px;
+}
+#greySq3{
+    background: grey;
+    position: absolute;
+    left: 400px;
+  top:0px;
+}
+#greySq4{
+    background: grey;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+}
+#liGreySq200{
+    background: lightgrey;
+    position:absolute;
+    top: 0px;
+    left: 600px;
+}
+#greySq5{
+    background: grey;
+    position: absolute;
+    top: 75px;
+    left: 675px;
+}
+#redSq200{
+    background: red;
+  position:absolute;
+  top: 0px;
+  left: 800px;
+}
+#aquaSq100{
+    background: aqua;
+    position: absolute;
+    left: 900px;
+  top:0px;
+}
+#greySq100{
+    background: grey;
+    position: absolute;
+    left: 900px;
+    top: 100px
+}
+#yellowR200{
+    background: yellow;
+    position: absolute;
+    top: 200px;
+  left:0px;
+}
+#red50{
+  background:red;
+  position:absolute;
+  top:200px;
+  left:0px;
+}
+#reds50{
+  background:red;
+  position:absolute;
+  top:200px;
+  left:100px;
+}
+#violetR400{
+  background:BlueViolet;
+  position:absolute;
+  top:200px;
+  left: 200px;
+}
+#purpleR400{
+  background:purple;
+  position:absolute;
+  left:600px;
+  top: 200px;
+}
+#goldR400{
+  background:Goldenrod;
+  position:absolute;
+  top:250px;
+  left:0px;
+}
+#greenR200{
+  background:green;
+  position:absolute;
+  top:250px;
+  left:400px;
+}
+#greySq200{
+  background:grey;
+  position: absolute;
+  top:300px;
+  left:0px;
+}
+#redR300{
+  background:red;
+  position:absolute;
+  top:300px;
+  left:200px
+}
+#liGreyR200{
+  background:lightgrey;
+  position:absolute;
+  top:300px;
+  left:500px
+}
+#greysSq200{
+  background:grey;
+  position: absolute;
+  top:300px;
+  left:800px;
+}
+#white50{
+  background:white;
+  position: absolute;
+  top:300px;
+  left:200px;
+}
+#whites50{
+  background:white;
+  position: absolute;
+  top:300px;
+  left:450px;
+}
+#whiteSq100{
+  background:white;
+  position: absolute;
+  top:450px;
+  left:300px;
+}
+#whitess50{
+  background:white;
+  position: absolute;
+  top:650px;
+  left:200px;
+}
+#whitesss50{
+  background:white;
+  position: absolute;
+  top:650px;
+  left:450px;
+}
+#whiteR50{
+  background:white;
+  position: absolute;
+  top:300px;
+  left:500px;
+}
+#ligreens50{
+  background:lightgreen;
+  position: absolute;
+  top:300px;
+  left:500px;
+}
+#ligreenss50{
+  background:lightgreen;
+  position: absolute;
+  top:300px;
+  left:600px;
+}
+#ligreensss50{
+  background:lightgreen;
+  position: absolute;
+  top:300px;
+  left:700px;
+}
+#ligreenR50{
+  background:green;
+  position: absolute;
+  top:400px;
+  left:500px;
+}
+#goldSq200{
+  background:Goldenrod;
+  position:absolute;
+  top:500px;
+  left:0px;
+}
+#yellow50{
+  background:yellow;
+  position:absolute;
+  top:500px;
+  left:0px;
+}
+#ligrey50{
+  background:lightgrey;;
+  position:absolute;
+  top:600px;
+  left:100px;
+}
+#aquaR200{
+  background:aqua;
+  position:absolute;
+  top:500px;
+  left:500px
+}
+#liGreySqs200{
+    background: lightgrey;
+    position:absolute;
+    top: 500px;
+    left: 800px;
+}
+#purplesR400{
+  background:purple;
+  position:absolute;
+  left:0px;
+  top: 700px;
+}
+#lipurplesR400{
+  background:blueviolet;
+  position:absolute;
+  left:400px;
+  top: 700px;
+}
+#greensR200{
+  background:green;
+  position:absolute;
+  left:400px;
+  top: 750px;
+}
+#goldsR400{
+  background:goldenrod;
+  position:absolute;
+  left:600px;
+  top: 750px;
+}
+#yellowsR200{
+  background:yellow;
+  position:absolute;
+  left:800px;
+  top:700px;
+}
+#redss50{
+  background:red;
+  position:absolute;
+  left:850px;
+  top:700px;
+}
+#redsss50{
+  background:red;
+  position:absolute;
+  left:950px;
+  top:700px;
+}
+
+.square50{
+    width: 50px;
+    height: 50px;			
+}
+.square100{
+    width: 100px;
+    height: 100px;
+}
+.rectW100{
+    width: 100px;
+    height: 50px;			
+}
+.rectW200{
+    width: 200px;
+    height: 50px;
+}
+.rectW400{
+    width: 400px;
+    height: 50px;
+}
+.rectH400{
+  width:400px;
+  height: 100px;
+}
+.rectW300{
+  width:300px;
+  height:400px;
+}
+.rectH200{
+  width:300px;
+  height:200px;
+}
+.rectH50{
+  width:300px;
+  height:50px;
+}
+.square200{
+    width: 200px;
+    height: 200px;
+}
